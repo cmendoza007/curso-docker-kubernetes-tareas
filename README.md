@@ -1,8 +1,7 @@
 <h1> "Tareas - Curso Docker & Kubernetes" </h1>
 <h2>Omar Christian Mendoza Mollinedo</h2>
 
-###  https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWQyZTQ2N2ItNzYwZC00MjRiLWIwN2MtM2QwZWRjNTdiYWQw%40thread.v2/0?context=%7b%22Tid%22%3a%22167e78db-efb2-418e-91e8-0bd0314d1977%22%2c%22Oid%22%3a%22080e3da0-a424-42e3-a891-6ffd4acce922%22%7d
-
+###  https://www.i-quattro.com/product-page/DOC-KUB-100
   
 ### Technologies
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
