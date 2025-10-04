@@ -3,7 +3,7 @@
 
 ### About Me
 - I am from La Paz, Bolivia.
-- I am a MERN and PERN full stack developer.
+- I am a full stack developer.
 - I am a self-taught and highly creative individual who seeks to learn and improve every day.
   
 ### Technologies
