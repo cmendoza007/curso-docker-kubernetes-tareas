@@ -4,9 +4,9 @@
 
 ## 🔗 Enlaces Importantes
 
-### 🌐 Web Principal (Sitio del Proyecto/Documentación)
+### 🌐 i-Quattro (Sitio del Proyecto/Documentación)
 
-[Visitar la Web Principal](https://www.ejemplo-principal.com/mi-proyecto)
+[Enlace al curso de i-Quattrol](https://www.i-quattro.com/product-page/DOC-KUB-100)
 
 ### 🚀 Web Secundaria (Repositorio de Código Fuente/Demo)
 
