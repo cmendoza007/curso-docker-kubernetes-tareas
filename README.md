@@ -1,5 +1,5 @@
-<h1>Hello! I'm Omar Christian Mendoza Mollinedo <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
-<h2>Systems Engineer🎨</h2>
+<h1> "Tareas - Curso Docker & Kubernetes" <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
+<h2>Omar Christian Mendoza Mollinedo</h2>
 
 ### About Me
 - I am from La Paz, Bolivia.
