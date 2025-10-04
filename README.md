@@ -1,6 +1,16 @@
 <h1> "Tareas - Curso Docker & Kubernetes" </h1>
 <h2>Omar Christian Mendoza Mollinedo</h2>
 
+
+## 🔗 Enlaces Importantes
+
+### 🌐 Web Principal (Sitio del Proyecto/Documentación)
+
+[Visitar la Web Principal](https://www.ejemplo-principal.com/mi-proyecto)
+
+### 🚀 Web Secundaria (Repositorio de Código Fuente/Demo)
+
+[Ir al Repositorio de Código](https://www.ejemplo-secundario.io/mi-proyecto/repo)
 ### i-Quattro
 <a href="https://www.i-quattro.com/product-page/DOC-KUB-100"></a>
   
