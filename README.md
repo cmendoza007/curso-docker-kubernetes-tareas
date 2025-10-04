@@ -1,7 +1,7 @@
 <h1> "Tareas - Curso Docker & Kubernetes" </h1>
 <h2>Omar Christian Mendoza Mollinedo</h2>
 
-###  
+### i-Quattro
 <a href="https://www.i-quattro.com/product-page/DOC-KUB-100"></a>
   
 ### Technologies
