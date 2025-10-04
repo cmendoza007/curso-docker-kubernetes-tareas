@@ -24,8 +24,8 @@
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
 
 ### Contact Me
-<a href="https://www.linkedin.com/in/omendoza/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mauro%20Vera-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.tiktok.com/@omendoza007"><img alt="Tiktok" src="https://img.shields.io/badge/Dev Mauro-blue?style=flat-square&logo=tiktok"></a>  
+<a href="https://www.linkedin.com/in/omendoza/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-omendoza-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.tiktok.com/@omendoza007"><img alt="Tiktok" src="https://img.shields.io/badge/omendoza007?style=flat-square&logo=tiktok"></a>  
 <a href="christianmndz909@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-christianmndz909@gmail.com-blue?style=flat-square&logo=gmail"></a>  
 
 
