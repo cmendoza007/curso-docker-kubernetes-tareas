@@ -4,7 +4,7 @@
 
 ## 🔗 Enlaces Importantes
 
-### 🌐 i-Quattro (Sitio del Proyecto/Documentación)
+### 🌐 i-Quattro 
 
 [Enlace al curso de i-Quattrol](https://www.i-quattro.com/product-page/DOC-KUB-100)
 
