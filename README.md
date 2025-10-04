@@ -1,8 +1,8 @@
 <h1> "Tareas - Curso Docker & Kubernetes" </h1>
 <h2>Omar Christian Mendoza Mollinedo</h2>
 
-### <a href="https://www.linkedin.com/in/omendoza/">
-- I am from La Paz, Bolivia.
+###  i-Quattro
+<a href="https://www.linkedin.com/in/omendoza/">
 - I am a full stack developer.
 - I am a self-taught and highly creative individual who seeks to learn and improve every day.
   
