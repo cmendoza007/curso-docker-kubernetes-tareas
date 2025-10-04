@@ -6,9 +6,9 @@
 
 ### 🌐 i-Quattro 
 
-[Enlace al curso de i-Quattrol](https://www.i-quattro.com/product-page/DOC-KUB-100)
+[Enlace al curso de i-Quattro](https://www.i-quattro.com/product-page/DOC-KUB-100)
 
-### 🚀 Web Secundaria (Repositorio de Código Fuente/Demo)
+### 🚀 Indice de Clases 
 
 [Ir al Repositorio de Código](https://www.ejemplo-secundario.io/mi-proyecto/repo)
 ### i-Quattro
