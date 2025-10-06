@@ -12,7 +12,7 @@ A continuación, se listan todos los comandos usados para desplegar, verificar y
 - Comando: docker run -d --name nginx -p 8080:80 httpd
 -	docker run: Comando principal para ejecutar un contenedor a partir de una imagen.
 -	-d (Detached): Ejecuta el contenedor en segundo plano (modo daemon), liberando la terminal.
--	--name mi-apache: Asigna el nombre mi-apache al contenedor, facilitando su identificación y gestión.
+-	--name nginx: Asigna el nombre nginx al contenedor, facilitando su identificación y gestión.
 -	-p 8080:80 : Publica el puerto 80 del contenedor (donde escucha nginx) al puerto 8080 del host (localhost). Esto permite acceder al servidor web mediante http://localhost:8080.
 -	httpd: Es el nombre de la imagen a utilizar, que contiene el servidor nginx.
 ## 3. Evidencia
