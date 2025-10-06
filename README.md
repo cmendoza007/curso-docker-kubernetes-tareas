@@ -6,7 +6,7 @@
 
 ### 🌐 i-Quattro 
 
-[Enlace al curso de i-Quattro](https://www.i-quattro.com/product-page/DOC-KUB-100)
+Enlace al curso de i-Quattro (https://www.i-quattro.com/product-page/DOC-KUB-100)
 
 ### 🚀 Indice de Clases 
 Clase 1
