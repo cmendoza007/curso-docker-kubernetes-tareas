@@ -11,8 +11,8 @@ Enlace al curso de i-Quattro (https://www.i-quattro.com/product-page/DOC-KUB-100
 ### 🚀 Indice de Clases 
 <strong>Clase 1 Introduccion</strong>: https://github.com/alefiengo/curso-docker-kubernetes/tree/main/bloque-docker/clase1-introduccion
   <br>  Screenshots: </br>
-Clase 2 Dockerfiles y construccion de Imagenes: https://github.com/alefiengo/curso-docker-kubernetes/tree/main/bloque-docker/clase2-dockerfiles
-    Screenshots:
+<strong>lase 2 Dockerfiles y construccion de Imagenes</strong>: https://github.com/alefiengo/curso-docker-kubernetes/tree/main/bloque-docker/clase2-dockerfiles
+  <br>  Screenshots: </br>
         
 ### Technologies
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
