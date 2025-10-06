@@ -9,7 +9,7 @@
 Enlace al curso de i-Quattro (https://www.i-quattro.com/product-page/DOC-KUB-100)
 
 ### 🚀 Indice de Clases 
-Clase 1
+Clase 1 Introduccion: https://github.com/alefiengo/curso-docker-kubernetes/tree/main/bloque-docker/clase1-introduccion
 
     1 Introduccion: https://github.com/alefiengo/curso-docker-kubernetes/tree/main/bloque-docker/clase1-introduccion
         1.1 Subíndice 1
