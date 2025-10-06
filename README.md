@@ -9,17 +9,9 @@
 [Enlace al curso de i-Quattro](https://www.i-quattro.com/product-page/DOC-KUB-100)
 
 ### 🚀 Indice de Clases 
+Clase 1
 
-[Ir al Repositorio de Código](https://www.ejemplo-secundario.io/mi-proyecto/repo)
-### i-Quattro
-<a href="https://www.ejemplo.com" target="_blank">Visitar Ejemplo.com</a>
-<a href="https://www.i-quattro.com/product-page/DOC-KUB-100"></a>
-
-
-
-Contents
-
-    1 Índice 1
+    1 [Introduccion] (https://github.com/alefiengo/curso-docker-kubernetes/tree/main/bloque-docker/clase1-introduccion)
         1.1 Subíndice 1
         1.2 Subíndice 2
     Índice 2
