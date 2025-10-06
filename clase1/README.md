@@ -23,7 +23,7 @@ b) Screenshot del navegador (Accediendo a Apache)
 <img width="1790" height="975" alt="image" src="https://github.com/user-attachments/assets/249125c8-a675-4447-b730-0b40817c08eb" />
 ## 4. Conclusiones
 - Reforcé cómo se utilizan los flags esenciales (-d, --name, -p) en el comando docker run para controlar la ejecución del contenedor. Comprendí que -p HOST_PORT:CONTAINER_PORT es fundamental para exponer servicios de red que corren dentro del contenedor al exterior.
-- Dificultades: Inicialmente, olvidé usar el flag -d, lo que hizo que la terminal se bloqueara mostrando los logs de Apache. Resolví esto cancelando la ejecución (Ctrl+C) y luego volviendo a ejecutar el comando, esta vez incluyendo el flag -d para que corriera en segundo plano
+
 
 
 
