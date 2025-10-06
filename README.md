@@ -10,28 +10,10 @@ Enlace al curso de i-Quattro (https://www.i-quattro.com/product-page/DOC-KUB-100
 
 ### 🚀 Indice de Clases 
 Clase 1 Introduccion: https://github.com/alefiengo/curso-docker-kubernetes/tree/main/bloque-docker/clase1-introduccion
-
-    1 Introduccion: https://github.com/alefiengo/curso-docker-kubernetes/tree/main/bloque-docker/clase1-introduccion
-        1.1 Subíndice 1
-        1.2 Subíndice 2
-    Índice 2
-    Índice 3
-
-
-
-Read more at: https://www.vichaunter.org/desarrollo-web/como-hacer-un-indice-de-contenidos-solo-con-html-y-css-sencillos 
-
-Contents
-
-    1 Índice 1
-        1.1 Subíndice 1
-        1.2 Subíndice 2
-    Índice 2
-    Índice 3
-
-
-
-Read more at: https://www.vichaunter.org/desarrollo-web/como-hacer-un-indice-de-contenidos-solo-con-html-y-css-sencillos 
+    Screenshots: 
+Clase 2 Dockerfiles y construccion de Imagenes: https://github.com/alefiengo/curso-docker-kubernetes/tree/main/bloque-docker/clase2-dockerfiles
+    Screenshots:
+        
 ### Technologies
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
