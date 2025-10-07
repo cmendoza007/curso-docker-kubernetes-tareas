@@ -16,4 +16,5 @@ Aquí encontrarás la documentación y las tareas completadas para cada clase de
 
 1.  **[Clase 1: Introducción a Docker](./clase1/README.md)**
     * Tarea: Despliegue, verificación y limpieza de un container Apache HTTP.
+2.  **[Clase 2: Dockerfiles y Construcción de Imágenes](./clase2/mi-app-express)
         
